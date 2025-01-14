@@ -1,0 +1,1 @@
+export { TicketPopap } from './TicketPopap';
